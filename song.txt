@@ -14,3 +14,4 @@ dobaliaem 3 kuplet
 pro gotov 
 lyshi zimoi
 
+for tag only
